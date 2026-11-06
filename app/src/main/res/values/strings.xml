@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfitOS</string>
+    <string name="offline_title">Brak połączenia z internetem</string>
+    <string name="offline_retry">Spróbuj ponownie</string>
+</resources>
